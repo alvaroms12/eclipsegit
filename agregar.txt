@@ -2,7 +2,7 @@ Modificación inicial fichero Github
 
 Creado fichero desde master
 
-Ã?lvaro
+Alvaro
 
 Miguel
 
@@ -10,3 +10,7 @@ Modificación final fichero Eclipse
 
 Modificado en Github
 
+
+Nuevo codigo para la peticion funcional nueva (feature1)
+
+Nuevo codigo para la entrega (release1)
