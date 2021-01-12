@@ -2,11 +2,10 @@ Modificación inicial fichero Github
 
 Creado fichero desde master
 
-<<<<<<< HEAD
+Álvaro
 
 
+Modificación final fichero Eclipse
 
-Modificaci�n final fichero Eclipse
-=======
 Modificado en Github
->>>>>>> branch 'master' of https://github.com/alvaroms12/eclipsegit.git
+
