@@ -11,3 +11,5 @@ Modificaciones desde rama fast_forward
 Modificaciones desde rama fast_forward2
 
 Modificado pero para commit confirmado
+
+Modificación contenido a liberar...
